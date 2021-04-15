@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", نور الشام
-http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
+http://82.137.248.16:1935/Nour/stream14042021/chunklist.m3u8?DVR
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", نور الشام رابط مؤقت
+http://192.34.153.36:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=c0c5e8f581d0fac99320928b7ef40933bd317990f2fc173ddabe80969a84a3ec48c5fd86623226aa579a5eb2e5be3bd7&hlsid=HTTP_ID_1&starttime=20210313T054313.405664
 #EXTINF:-1, logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIuASHEfPDF-7iiDVidIbjFaQ-vD1bHpRMA&usqp=CAU", قناة الرحمة
 http://146.59.153.46:8080/live/tdn/47850755842/101542.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5vm6JiMcNPZ98ZfdkxdBTBYF6CNujaFTqkwUOew=s176-c-k-c0x00ffffff-no-rj-mo", إقرأ
