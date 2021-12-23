@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", نور الشام
-http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
-#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", نور الشام2
-http://82.137.248.16:1935/Nour/stream19042021/chunklist_w1522430783.m3u8
-#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", نور الشام3
-https://vsd63.mycdn.me/hls/1267670583926.m3u8/sig/lbk156ARuMs/expires/1618965196979/srcIp/95.70.128.108/urls/45.136.22.52/clientType/0/srcAg/CHROME_ANDROID/mid/2499587481206/video.m3u8
-#EXTINF:-1, logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIuASHEfPDF-7iiDVidIbjFaQ-vD1bHpRMA&usqp=CAU", قناة الرحمة
-http://146.59.153.46:8080/live/tdn/47850755842/101542.m3u8
+https://bit.ly/3srce9T
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5vm6JiMcNPZ98ZfdkxdBTBYF6CNujaFTqkwUOew=s176-c-k-c0x00ffffff-no-rj-mo", إقرأ
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+https://bit.ly/32xwRq0
 #EXTINF:-1, logo="https://telfaz.ucoz.com/_ld/0/83320126.jpg", الرسالة
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
+https://bit.ly/3pl3Pmq
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s176-c-k-c0x00ffffff-no-rj-mo", القرآن الكريم
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnhE7lTRmapeqPytQzbG5PljCq-YShDQAXEpiuiC4A=s176-c-k-c0x00ffffff-no-rj-mo", السنة النبوية
